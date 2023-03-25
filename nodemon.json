@@ -1,0 +1,4 @@
+{
+  "ext": "ts",
+  "exec": "node --inspect=0.0.0.0:9228 --require ts-node/register"
+}
