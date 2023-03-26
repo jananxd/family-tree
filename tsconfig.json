@@ -2,8 +2,11 @@
   "compilerOptions": {
     "outDir": "dist",
     "allowJs": true,
-    "target": "ES2021",
-    "lib": ["ES2021", "dom"],
+    "lib": [
+      "ES2017",
+      "ES2021",
+      "dom"
+    ],
     "esModuleInterop": true,
     "module": "CommonJS",
 
